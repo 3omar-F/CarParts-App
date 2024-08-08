@@ -9,3 +9,5 @@ This app can be used bu three types of users:
 
   As the app helps in finding and part by filtering by car and part type also it helps in managing Inventory for the store owner and finance transactions and balances so it is as mini ERP system just to surve the parts shop.
   App also contains a chat section were shop owners and customers can contact each others as it can be between shop owners togather and with thier workers/employees.
+
+  Contact me to get demo access..
